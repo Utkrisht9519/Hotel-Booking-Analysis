@@ -8,7 +8,7 @@ Analyzes hotel booking data using Python to reveal trends in customer behavior, 
 
 ### 3. Introduction
 
-This project performs a thorough exploratory data analysis (EDA) on a hotel booking dataset—typically covering city and resort hotels—to understand booking trends, behavior around cancellations, guest preferences, and seasonal patterns. The goal is to extract insights that can help hotel managers improve operations, marketing strategies, and pricing decisions.
+This project performs a thorough exploratory data analysis (EDA) on a hotel booking dataset—typically covering city and resort hotels — to understand booking trends, behavior around cancellations, guest preferences, and seasonal patterns. The goal is to extract insights that can help hotel managers improve operations, marketing strategies, and pricing decisions.
 
 ### 4. Dataset
 
